@@ -1,5 +1,4 @@
-# Soft Stop Shop 🛒
-
+# Soft Stop Shop 🛒 www.softstopshop.com
 ระบบ E-Commerce แบบครบวงจร สำหรับขายสินค้าทั้งแบบ Physical และ Digital พร้อมระบบ License Key
 
 ## ✨ Features
